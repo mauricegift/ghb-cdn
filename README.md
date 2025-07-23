@@ -1,6 +1,6 @@
 # ghb-cdn
 
-**[FRONTEND USE HERE](https://ghbcdn.giftedtech.web.id)**
+**[FRONTEND USE HERE](https://ghbcdn.giftedtech.co.ke)**
 
 - Ensure to follow our whatsapp channel below to always get exact timely updates.
 
